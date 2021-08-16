@@ -8,7 +8,7 @@ import (
 	_init_ "github.com/opencdk8s/cdk8s-aws-lb-controller-api-object-go/opencdk8scdk8sawslbcontrollerapiobject/jsii"
 
 	"github.com/aws/constructs-go/constructs/v3"
-	"github.com/cdk8s-team/cdk8s-go/cdk8s"
+	"github.com/cdk8s-team/cdk8s-core-go/cdk8s"
 	"github.com/opencdk8s/cdk8s-aws-lb-controller-api-object-go/opencdk8scdk8sawslbcontrollerapiobject/internal"
 )
 
